@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Programming%20In%20C.png" alt="Programming In C Header" width="100%">
+</div>
+
 # Programming in C
 
 This repository contains C programming practice files and examples, organized chapter-wise.
@@ -7,6 +11,7 @@ This repository contains C programming practice files and examples, organized ch
 ```
 Programming-in-C/
 │
+├── Programming In C.png
 ├── Chapter_01/       # Basic Syntax, Variables, Data Types & Input/Output
 │   ├── Add_2_no.c
 │   ├── Comments _in_C.c
