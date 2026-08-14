@@ -1,0 +1,11 @@
+# Executable binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# OS & IDE generated files
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
