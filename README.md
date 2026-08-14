@@ -6,12 +6,19 @@
 
 This repository contains C programming practice files and examples, organized chapter-wise.
 
+## 📚 Resources & Book Access
+
+For C programming books and study guides, refer to [review.md](review.md) or visit:
+- **[GoalKicker](https://goalkicker.com/)** - Free C Programming books & reference materials.
+
 ## 📁 Repository Structure
 
 ```
 Programming-in-C/
 │
 ├── Programming In C.png
+├── README.md
+├── review.md         # Book access, resources & review notes
 ├── Chapter_01/       # Basic Syntax, Variables, Data Types & Input/Output
 │   ├── Add_2_no.c
 │   ├── Comments _in_C.c
