@@ -11,4 +11,4 @@ git commit -m "Your descriptive commit message"
 git push origin main
 
 # 5. Single line commands
-git status&& git add .&& git commit -m "One line command"&& git push origin main
+git status; git add .; git commit -m "One line command"; git push origin main
