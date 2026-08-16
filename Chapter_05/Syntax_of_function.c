@@ -1,4 +1,4 @@
-// Initicating in function 
+// Initiate in function 
 #include <stdio.h>
 
 // Function declaration 
