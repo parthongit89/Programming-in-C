@@ -5,6 +5,8 @@ int main(){
     int *ptr = &age ;
     int **pptr = &ptr ;
 
+
+    
     return 0;
 }
 // Run On terminial Ctrl + `
