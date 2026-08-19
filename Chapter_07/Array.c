@@ -21,7 +21,7 @@ int  main() {
 
     printf("Enter the marks 3 : ");
     scanf("%d",&marks[2]);
-    
+
     printf("marks_01 : %d, marks_02 : %d , marks_03 : %d",marks[0],marks[1],marks[2]);
     return 0;
 }
