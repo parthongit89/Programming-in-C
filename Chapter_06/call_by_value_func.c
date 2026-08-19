@@ -3,8 +3,8 @@
 void square(int n);
 int main(){
     int number = 4 ;
-    square(number);
-    printf("square of number is : %d\n",number);
+    square(number); // 16
+    printf("square of number is : %d\n",number); // 4
     return 0;
 }
 void square(int n){
