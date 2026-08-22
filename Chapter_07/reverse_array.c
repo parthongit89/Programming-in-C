@@ -17,6 +17,7 @@ void printArray(int arr[] , int n){
     }
     
 }
+// Call by reference coz the pointer is arr
 void reversArray(int arr[] , int n){
     for (int i = 0; i < n/2; i++)
     {
