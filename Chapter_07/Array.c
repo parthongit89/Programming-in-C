@@ -10,6 +10,9 @@ int  main() {
     // Array for Float allocating 2 indexed at a time
     float _float_array[2];
 
+    // Representation of Array
+    int marks[] = {99 ,98 , 97};
+    
 
     // Input-Output in array
     int marks[3];
