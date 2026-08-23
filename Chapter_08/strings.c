@@ -12,6 +12,8 @@ int main(){
 
     return 0;
 
+
+    
 }
 // Run On terminial Ctrl + `
 // gcc strings.c; .\a.exe (windows)
