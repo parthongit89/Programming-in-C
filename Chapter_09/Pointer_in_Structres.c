@@ -7,11 +7,15 @@ struct Student
 };
 int main (){
     struct Student s1 ={100};
+    struct Student s2 ={120};
     printf("Roll no student is  : %d\n", s1.roll);
 
     struct Student *ptr=&s1 ;
-    printf("Roll no student is ptr assign : %d", (*ptr).roll);
+    printf("Roll no student is ptr assign : %d\n", (*ptr).roll);
 
+    struct Student *ptr2=&s2 ;
+    printf("Roll no student is ptr assign : %d\n", ptr->roll); // Use arrow pointer 
+    
     // (*ptr) -->_address --> s1 ={100};
     //(*ptr).roll -- > _address --> 100
 
